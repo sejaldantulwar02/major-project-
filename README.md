@@ -1,2 +1,2 @@
 # major-project-
-wanderlust
+wanderlust project
